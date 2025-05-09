@@ -50,7 +50,7 @@ This Power BI project provides a comprehensive IT Help Desk Ticket Analysis dash
 
 ---
 
-## Dashboard
+## 📊 Dashboard
 
 ![Image](https://github.com/user-attachments/assets/7047c763-21be-4c88-9a60-91dcc7994473)
 
