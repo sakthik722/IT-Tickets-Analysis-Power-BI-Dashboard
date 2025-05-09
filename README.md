@@ -1,5 +1,5 @@
 # IT-Tickets-Analysis-Power-BI-Dashboard
-This Power BI project presents a detailed IT Help Desk Ticket Analysis dashboard designed to help organizations monitor and improve their IT support operations.
+This Power BI project provides a comprehensive IT Help Desk Ticket Analysis dashboard. It visualizes key support metrics such as the number of tickets, user engagement, resolution times, department-wise issues, and satisfaction levels. The goal is to help IT and service desk managers monitor workload distribution, ticket priorities, and resolution efficiency.
 
 ---
 
